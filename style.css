@@ -1,0 +1,14 @@
+footer{
+    background-color:red;
+    color: black;
+}
+
+.responsive-img{
+    max-width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: black;
+    color: red;
+}
